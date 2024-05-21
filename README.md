@@ -1,5 +1,6 @@
-## Hello! My name is Gustavo. Welcome to my profile.
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello!;My+name+is+Gustavo+C.+Martins;Welcome+to+my+profile"/>
+</h1>
 
 - 💻 I’m currently a Computer Science Student at Universidade Federal do Ceará(UFC), a brazilian University 🇧🇷;
 - 🤖 I’m learning Machine Learning and Data Science;
