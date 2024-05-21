@@ -13,4 +13,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PipInstallGustavo&layout=donut"/>
 </div>
 
-##
+## Main Skills:
+<div style="display: inline-block;"><br/>
+  <img align="center" height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img align="center" height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"/>
+  <img align="center" height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg"/>
+  <img align="center" height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
+  <img align="center" height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"/>
+  <img align="center" height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img align="center" height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+</div>
+
+## Still Learning:
+<div style="display: inline-block;"><br/>
+  <img align="center" height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"/>
+</div>
