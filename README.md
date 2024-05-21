@@ -15,7 +15,7 @@
 </div>
 
 ## Main Skills:
-<div style="display: inline-block;"><br/>
+<div style="display: inline-block;" align="center"><br/>
   <img align="center" height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img align="center" height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"/>
   <img align="center" height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg"/>
@@ -26,6 +26,6 @@
 </div>
 
 ## Still Learning:
-<div style="display: inline-block;"><br/>
+<div style="display: inline-block;" align="center"><br/>
   <img align="center" height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"/>
 </div>
