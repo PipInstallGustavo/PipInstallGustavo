@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hello! My name is Gustavo. Welcome to my profile.
 
-<!--
-**PipInstallGustavo/PipInstallGustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 💻 I’m currently a Computer Science Student at Universidade Federal do Ceará(UFC), a brazilian University 🇧🇷;
+- 🤖 I’m learning Machine Learning and Data Science;
+- 🫱 🫲 I’m also a member of ARIDA-UFC(Advanced Research in Databases) Lab, where recently I have worked with NLP tools to extract information from textual data;
+- 🤔 Interested in Math, AI and Programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div>
+  <a href="https://github.com/PipInstallGustavo/"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=PipInstallGustavo&show_icons=true&theme=transparent"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PipInstallGustavo&layout=donut"/>
+</div>
+
+##
