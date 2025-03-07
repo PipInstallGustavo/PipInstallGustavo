@@ -2,10 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello!;My+name+is+Gustavo+C.+Martins;Welcome+to+my+profile"/>
 </h1>
 
-- 💻 I’m currently a Computer Science Student at Universidade Federal do Ceará(UFC), a brazilian University 🇧🇷;
+- 💻 I’m currently a Computer Science Student at Universidade Federal do Ceará(UFC) 🇧🇷;
 - 🤖 I’m learning Machine Learning and Data Science;
-- 🫱 🫲 I’m also a member of ARIDA-UFC(Advanced Research in Databases) Lab, where recently I have worked with NLP tools to extract information from textual data;
-- 🤔 Interested in Math, AI and Programming.
+- 🫱 🫲 I’m also a member of ARIDA-UFC(Advanced Research in Databases) Research Lab, where recently I have worked with NLP tools to extract information from textual data;
+- 🤔 Interested in Probability & Statistics, AI and Programming.
 
 
 <div>
